@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create a new homepage banner.",
+      "details": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "Design a new Website",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos iste sapiente minima quisquam beatae vitae incidunt consequatur asperiores rem, nostrum illo exercitationem sint dolore! Sequi maiores aspernatur quaerat repellat ea.\n",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Create new Flutter Project",
+      "details": "Search for a new project for Mobile Programming course",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
